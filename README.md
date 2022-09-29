@@ -1,21 +1,19 @@
-# QRCode Generator
+# TODO APP
 
 ##### Published Url:-N/A
 
 
-<img src="https://github.com/sirugudipraveen3637/QRCodeGenerator/blob/main/qr.png" height="50%" width="100%"/>
+<img src="https://github.com/sirugudipraveen3637/TODO/blob/main/todo.png" height="50%" width="100%"/>
 
 
 ### Knowledge Gained:-
 
-  - Integrated QRServer API
-  - Explored promise and async
-  - Explored on how to integrate blob response
-  - Mapping blob response to image tag
-
+  - Adding input text to the UI
+  - Pushing the elements to Array
+  - Edit, Delete, Save the selected object in Array
   
   
-### Development Efforts:- 3.5hrs
+### Development Efforts:- 3.hrs
   
 ### Technologies/Framework/Tool:-
 <span>
